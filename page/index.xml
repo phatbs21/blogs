@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on phatbs21's blog</title><link>http://phatbs21.github.io/page/</link><description>Recent content in Pages on phatbs21's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://phatbs21.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>http://phatbs21.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>http://phatbs21.github.io/archives/</guid><description/></item><item><title>About</title><link>http://phatbs21.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://phatbs21.github.io/about/</guid><description>&lt;blockquote>
+&lt;p>&lt;a class="link" href="https://drive.google.com/file/d/1DFQd7Lqw_Jt0x7bf1kdSgDgy0A49sES4/view" target="_blank" rel="noopener"
+>Download my cv in here&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;h2 id="introduction">Introduction
+&lt;/h2>&lt;p>Passionate third-year computer science student focusing on back-end development. Proficient in building secure, scalable server-side applications using relational and NoSQL databases, RESTful APIs, and modern frameworks. Seeking opportunities to further enhance expertise in microservices architecture, DevOps practices, and database management.&lt;/p>
+&lt;hr>
+&lt;h2 id="education">Education
+&lt;/h2>&lt;h3 id="chu-van-an-high-school-for-the-gifted--binh-dinh-province-informatics-honors-class">Chu Van An High School for the Gifted | Binh Dinh Province, Informatics honors class
+&lt;/h3>&lt;p>&lt;em>August 2019 – July 2022&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>GPA:&lt;/strong> 8.9/10.0&lt;/li>
+&lt;li>&lt;strong>Coursework:&lt;/strong> Competitive programming&lt;/li>
+&lt;/ul>
+&lt;h3 id="vnu-hcm-international-university-bs-in-computer-science">VNU-HCM International University, BS in Computer Science
+&lt;/h3>&lt;p>&lt;em>October 2022 – May 2026&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>GPA:&lt;/strong> 3.6/4.0 (ranked 5 out of 127 students)&lt;/li>
+&lt;li>&lt;strong>Coursework:&lt;/strong> Software engineering, Computer Network, Algorithms and Data Structures&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="projects">Projects
+&lt;/h2>&lt;h3 id="library-management-system-2024">Library Management System (2024)
+&lt;/h3>&lt;p>&lt;em>Final Project for IU’s Principle of Database and Management course (Team project)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Developed a comprehensive system to streamline library operations, including book issue tracking, request forms, and cataloging.&lt;/li>
+&lt;li>Designed and implemented a relational database schema using Microsoft SQL Server.&lt;/li>
+&lt;li>Built a JavaFX-based user interface for intuitive interaction.&lt;/li>
+&lt;li>Integrated JDBC for seamless database connectivity.&lt;/li>
+&lt;li>Implemented core functionalities: book addition, update, deletion, and administrative monitoring.&lt;/li>
+&lt;/ul>
+&lt;h3 id="fruit-shop-2024">Fruit Shop (2024)
+&lt;/h3>&lt;p>&lt;em>Full-stack eCommerce web application for an online fruit store (backend-focused)&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Designed and developed a secure, scalable REST API using Node.js and Express.&lt;/li>
+&lt;li>Implemented JWT-based authentication to ensure user security.&lt;/li>
+&lt;li>Integrated MongoDB with Mongoose ORM for efficient data management.&lt;/li>
+&lt;li>Developed core eCommerce features: cart management, order processing, and PayPal API integration for payments.&lt;/li>
+&lt;li>Built an interactive UI using React, Redux, and Tailwind CSS.&lt;/li>
+&lt;/ul>
+&lt;h3 id="matrix-calculator-2024">Matrix Calculator (2024)
+&lt;/h3>&lt;p>&lt;em>A web-based tool for performing advanced matrix operations using Streamlit&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Implemented core linear algebra functions including matrix multiplication, determinant calculation, inversion, QR decomposition, and Gauss-Jordan elimination.&lt;/li>
+&lt;li>Leveraged NumPy and SymPy for high-performance numerical computations.&lt;/li>
+&lt;li>Designed an intuitive Streamlit UI, allowing users to input matrices and receive real-time results.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="achievements">Achievements
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Consolation Prize&lt;/strong>, ASEAN Student Contest on Information Security&lt;br>
+&lt;em>Team Name: IUSec2, Role: Reversing, Category: B (Jeopardy)&lt;/em>&lt;br>
+&lt;em>Oct 2023&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Consolation Prize&lt;/strong>, ASEAN Student Contest on Information Security&lt;br>
+&lt;em>Team Name: 7heL4stdanc3, Role: Reversing, Category: B (Jeopardy)&lt;/em>&lt;br>
+&lt;em>Issued by VNISA - Vietnam Information Security Association&lt;/em>&lt;br>
+&lt;em>Oct 2024&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Third Prize&lt;/strong>, ICPC Southern Vietnam Regional Contest&lt;br>
+&lt;em>Oct 2024&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Third Prize&lt;/strong>, National Student Informatics Olympiad - Specialized Informatics Category&lt;br>
+&lt;em>Issued by VIETNAM ASSOCIATON FOR INFORMATON PROCESSING - VAIP&lt;/em>&lt;br>
+&lt;em>Dec 2024&lt;/em>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Encouragement Scholarship&lt;/strong>, One Semester&lt;br>
+&lt;em>Oct 2024&lt;/em>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="experience">Experience
+&lt;/h2>&lt;h3 id="club-member-iu-security-club-international-university">Club Member, IU Security Club, International University
+&lt;/h3>&lt;p>&lt;em>Sep 2022 - Present&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Active participant in cybersecurity discussions and skill-building workshops.&lt;/li>
+&lt;li>Core member representing the club in various CTF competitions.&lt;/li>
+&lt;/ul>
+&lt;h3 id="student-researcher-cvip-lab-international-university">Student Researcher, CVIP LAB, International University
+&lt;/h3>&lt;p>&lt;em>Jul 2023 - Present&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Member of Olympiad and ICPC Team.&lt;/li>
+&lt;li>Researcher in the field of Artificial Intelligence and Machine Learning.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="technologies">Technologies
+&lt;/h2>&lt;p>&lt;strong>Languages/Frameworks:&lt;/strong>&lt;br>
+Assembly, C/C++, Java, JavaFX, JavaScript, Node.js, Express, React, Redux, Python, SQL&lt;/p>
+&lt;p>&lt;strong>Databases/Libraries:&lt;/strong>&lt;br>
+Microsoft SQL Server, MongoDB, JDBC, NumPy, SymPy&lt;/p>
+&lt;p>&lt;strong>Tools/Platforms:&lt;/strong>&lt;br>
+Unix/Linux, Docker, GitHub, GitLab, Bitbucket, IDA, Ghidra, Streamlit, Tailwind CSS, PayPal API&lt;/p>
+&lt;p>&lt;strong>Soft Skills:&lt;/strong>&lt;br>
+Time Management, Problem-solving, Documentation, On-site Coordination&lt;/p></description></item><item><title>Links</title><link>http://phatbs21.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://phatbs21.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">links&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">GitHub is the world&amp;#39;s largest software development platform.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.com&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://www.typescriptlang.org&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ts-logo-128.jpg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>&lt;code>image&lt;/code> field accepts both local and external images.&lt;/p></description></item><item><title>Search</title><link>http://phatbs21.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://phatbs21.github.io/search/</guid><description/></item></channel></rss>
